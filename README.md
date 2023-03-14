@@ -1,4 +1,4 @@
-### Hi there! 👋  I'm Abbey Nelson.
+### Hi there 👋  I'm Abbey Nelson.
 
 I'm a junior studying software engineering at Utah Valley University.
 
