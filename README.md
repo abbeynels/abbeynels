@@ -5,7 +5,7 @@ I'm a junior studying software engineering at Utah Valley University.
 - 🌱 I’m currently learning [Go](https://go.dev/).
 - 💬 Ask me about [photography](https://instagram.com/abbeynelsonphoto)!
 - ⚡ Fun fact: My favorite ice cream is mint chocolate chip.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abbeynels/)
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/abbeynels/)
 
 <!--
 **abbeynels/abbeynels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
