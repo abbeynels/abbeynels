@@ -2,8 +2,8 @@
 
 I'm a junior studying software engineering at Utah Valley University.
 
-- 🌱 I’m currently learning Go.
-- 💬 Ask me about photography!
+- 🌱 I’m currently learning [Go](https://go.dev/).
+- 💬 Ask me about [photography](https://instagram.com/abbeynelsonphoto)!
 - ⚡ Fun fact: My favorite ice cream is mint chocolate chip.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abbeynels/)
 
