@@ -3,9 +3,9 @@
 I'm a junior studying software engineering at Utah Valley University.
 
 - 🌱 My favorite language is <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">C#</a>.
-- 💬 Ask me about [photography](https://instagram.com/abbeynelsonphoto)!
+- 💬 Ask me about <a href="https://instagram.com/abbeynelsonphoto" target="_blank">photography</a>!
 - ⚡ Fun fact: My favorite ice cream is mint chocolate chip.
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/abbeynels/)
+- 📫 Connect with me on <a href="https://linkedin.com/in/abbeynels/" target="_blank">LinkedIn</a>
 
 <!--
 **abbeynels/abbeynels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
