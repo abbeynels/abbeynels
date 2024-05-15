@@ -1,11 +1,11 @@
 ### Hi there 👋 , I'm Abbey Griffith
 
-I'm a junior studying software engineering at Utah Valley University.
+I'm a senior studying software engineering at Utah Valley University.
 
-- 🌱 My favorite language is <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">C#</a>.
-- 💬 Ask me about <a href="https://instagram.com/abbeynelsonphoto" target="_blank">photography</a>!
+- 🌱 My favorite language is [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
+- 💬 Ask me about [photography](https://instagram.com/abbeynelsonphoto)!
 - ⚡ Fun fact: My favorite ice cream is mint chocolate chip.
-- 📫 Connect with me on <a href="https://linkedin.com/in/abbeynels/" target="_blank">LinkedIn</a>
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/abbeynels/)
 
 <!--
 **abbeynels/abbeynels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
