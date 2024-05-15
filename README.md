@@ -2,7 +2,7 @@
 
 I'm a junior studying software engineering at Utah Valley University.
 
-- 🌱 My favorite language is [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
+- 🌱 My favorite language is <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">C#</a>.
 - 💬 Ask me about [photography](https://instagram.com/abbeynelsonphoto)!
 - ⚡ Fun fact: My favorite ice cream is mint chocolate chip.
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/abbeynels/)
